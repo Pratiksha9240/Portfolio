@@ -1,0 +1,15 @@
+.Div{
+    margin-top: 50px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    margin-top: 50px;
+  }
+
+.Img{
+    height: 200px;
+    width: 200px;
+}
